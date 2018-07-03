@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
 comments: false
 ---
     
-<center></center>
+<center>
+A community pioneer project aimed to providing an opportunity for people with disabilities.
+Electric wheelchair controlled by head movement.</center>
 
 ## Features
 * Minimal, you can focus on your content
