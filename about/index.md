@@ -18,4 +18,4 @@ From this point the idea of Fursaa came, because integrating them in the society
 ## Our Objectives
 * Providing possibility to move independently for the people who can't move their limbs.
 * Seeking to help disabled people to use the talents they have, which brings  benefit to them and to the society,  and breaks the barrier  between them and creativity.
-*while there is no such device in Syria we aimed to make it available for all who need it, especially after the war in syria which caused a lot of injuries and disability.
+* While there is no such device in Syria we aimed to make it available for all who need it, especially after the war in syria which caused a lot of injuries and disability.
