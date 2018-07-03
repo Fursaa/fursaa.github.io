@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 comments: false
 ---
     
@@ -8,19 +8,14 @@ comments: false
 A community pioneer project aimed to providing an opportunity for people with disabilities by make movment independently possible for them.</center>
 
 ## Introduction
-* disabled people have lost there ability to movement, but every person have what  make him special, so disabled people have special talents and thoughts.... which could benefit the society, and integrating them in the society it's our responselity.
+* Disabled people have lost there ability to movement, but every person have what  make him special, so disabled people have special talents and thoughts.... which could benefit the society, and integrating them in the society it's our responselity.
 From this point the idea of Fursaa came.
 
 
-## Preview
+## What Is Fursaa?
+* Syrian project innovates device to control the electric wheelchair by head movement, and we aimed to make it available for all who need it.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
 
