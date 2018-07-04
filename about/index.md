@@ -3,18 +3,15 @@ layout: page
 title: About Us
 comments: false
 ---
-    
-<center>
-A community pioneer project aimed to providing an opportunity for people with disabilities by make movment independently possible for them.</center>
 
 ## Introduction
-* Disabled people have lost there ability to movement, but every person have what  make him special, so disabled people have special talents and thoughts.... which could benefit the society.
-From this point the idea of Fursaa came, because integrating them in the society it's all of us responselity.
+* Disabled people have lost there ability to movement, but every person have what  make him special, also disabled people have special talents and thoughts.... which could benefit the society.
+From this point the idea of Fursaa came, because integrating them in the society it's all of us responsibility.
 
+<br>
 
-
-## What Is Fursaa
-* Syrian project innovates device to control the electric wheelchair by head movement.
+## So What Is Fursaa
+*  A Syrian community pioneer project aimed to providing an opportunity for people with disabilities by developing device to control the electric wheelchair by head movement.
 
 
 ## Our Objectives

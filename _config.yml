@@ -1,12 +1,12 @@
 # Site
 title:              Fursaa
-bio:                'Electric wheelchair controlled by head movement.'
-description:        "A community pioneer project aimed to providing an opportunity for people with disabilities."
+bio:                'A community pioneer project aimed to providing an opportunity for people with disabilities.'
+description:        "Fursaa mean a Chance, and every one deserves it."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                 https://fursaa.github.io
 
