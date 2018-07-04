@@ -13,6 +13,7 @@ From this point the idea of Fursaa came, because integrating them in the society
 ## So What Is Fursaa
 *  A Syrian community pioneer project aimed to providing an opportunity for people with disabilities by developing device to control the electric wheelchair by head movement.
 
+<br>
 
 ## Our Objectives
 * Providing possibility to move independently for the people who can't move their limbs.
