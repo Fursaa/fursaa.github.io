@@ -8,6 +8,17 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <style>
+        .col-xs-1 {
+            width: 100%;
+        }
+        @media (min-width: 750px) {
+            .col-md-2 {
+                width: 45%;
+                float: left;
+            }
+        }
+    </style>
 </head>
 <body>
     {% include nav.html %}
